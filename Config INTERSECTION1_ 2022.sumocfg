@@ -3,12 +3,12 @@
  xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumoConfiguration.xsd">
     <input>
         <net-file value="model.net.xml"/>
-        <route-files value="FLUXOS BRAVO_COM EMPREENDIMENTO 2022 m.xml"/>
+        <route-files value="fluxos.xml"/>
         
     </input>
     <output>
         <write-license value="true"/>
-        <tripinfo-output value="tripinfos_COM EMPREENDIMENTO 2022 manhã.xml"/>
+        <tripinfo-output value="performance_report.xml"/>
     </output>
     <time>
         <begin value="0"/>
