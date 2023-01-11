@@ -8,7 +8,7 @@
     </input>
     <output>
         <write-license value="true"/>
-        <tripinfo-output value="performance_report.xml"/>
+        <tripinfo-output value="tripinfo_performance_report.xml"/>
     </output>
     <time>
         <begin value="0"/>
