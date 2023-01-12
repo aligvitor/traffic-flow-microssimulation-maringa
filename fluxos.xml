@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <routes>
 
-    <vType id="Carro" length="5.0" minGap="2.5" />
+    <vType id="Carro" emissionClass="HBEFA3/PC_G_EU4" length="5.0" minGap="2.5" />
          
-    <flow id="m1" color="102,255,51"  begin="0" end= "3600" period="13" type="Carro" departLane = "best" from="E7" to="E1" /> 
-    <flow id="m2" color="102,255,51"  begin="0" end= "3600" period="11" type="Carro" departLane = "best" from="E7" to="E3" /> 
-    <flow id="m3" color="102,255,51"  begin="0" end= "3600" period="2" type="Carro" departLane = "best" from="E7" to="E4" /> 
-    <flow id="m4" color="102,255,51"  begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E7" to="E6" /> 
-    <flow id="m5" color="102,255,51"  begin="0" end= "3600" period="22" type="Carro" departLane = "best" from="E0" to="E3" /> 
-    <flow id="m6" color="102,255,51"  begin="0" end= "3600" period="25" type="Carro" departLane = "best" from="E0" to="E4" /> 
-    <flow id="m7" color="102,255,51"  begin="0" end= "3600" period="10" type="Carro" departLane = "best" from="E0" to="E6" /> 
-    <flow id="m8" color="102,255,51"  begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E0" to="E1" /> 
-    <flow id="m9" color="102,255,51"  begin="0" end= "3600" period="5" type="Carro" departLane = "best" from="E2" to="E4" /> 
-    <flow id="m10" color="102,255,51"  begin="0" end= "3600" period="16" type="Carro" departLane = "best" from="E2" to="E6" /> 
-    <flow id="m11" color="102,255,51"  begin="0" end= "3600" period="19" type="Carro" departLane = "best" from="E2" to="E1" /> 
-    <flow id="m12" color="102,255,51"  begin="0" end= "3600" period="0.21" type="Carro" departLane = "best" from="E2" to="E3" /> 
-    <flow id="m13" color="102,255,51"  begin="0" end= "3600" period="11" type="Carro" departLane = "best" from="E5" to="E6" /> 
-    <flow id="m14" color="102,255,51"  begin="0" end= "3600" period="23" type="Carro" departLane = "best" from="E5" to="E1" /> 
-    <flow id="m15" color="102,255,51"  begin="0" end= "3600" period="2" type="Carro" departLane = "best" from="E5" to="E3" /> 
-    <flow id="m16" color="102,255,51"  begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E5" to="E4" /> 
+    <flow id="m1" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="13" type="Carro" departLane = "best" from="E7" to="E1" /> 
+    <flow id="m2" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="11" type="Carro" departLane = "best" from="E7" to="E3" /> 
+    <flow id="m3" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="2" type="Carro" departLane = "best" from="E7" to="E4" /> 
+    <flow id="m4" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E7" to="E6" /> 
+    <flow id="m5" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="22" type="Carro" departLane = "best" from="E0" to="E3" /> 
+    <flow id="m6" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="25" type="Carro" departLane = "best" from="E0" to="E4" /> 
+    <flow id="m7" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="10" type="Carro" departLane = "best" from="E0" to="E6" /> 
+    <flow id="m8" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E0" to="E1" /> 
+    <flow id="m9" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="5" type="Carro" departLane = "best" from="E2" to="E4" /> 
+    <flow id="m10" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="16" type="Carro" departLane = "best" from="E2" to="E6" /> 
+    <flow id="m11" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="19" type="Carro" departLane = "best" from="E2" to="E1" /> 
+    <flow id="m12" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4"  begin="0" end= "3600" period="0.21" type="Carro" departLane = "best" from="E2" to="E3" /> 
+    <flow id="m13" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4" begin="0" end= "3600" period="11" type="Carro" departLane = "best" from="E5" to="E6" /> 
+    <flow id="m14" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4" begin="0" end= "3600" period="23" type="Carro" departLane = "best" from="E5" to="E1" /> 
+    <flow id="m15" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4" begin="0" end= "3600" period="2" type="Carro" departLane = "best" from="E5" to="E3" /> 
+    <flow id="m16" color="102,255,51" emissionClass="HBEFA3/PC_G_EU4" begin="0" end= "3600" period="1" type="Carro" departLane = "best" from="E5" to="E4" /> 
 
 </routes>
          

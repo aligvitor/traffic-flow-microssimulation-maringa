@@ -4,7 +4,7 @@
     <input>
         <net-file value="model.net.xml"/>
         <route-files value="fluxos.xml"/>
-        
+        <additional-files value="emissions.add.xml"/>
     </input>
     <output>
         <write-license value="true"/>

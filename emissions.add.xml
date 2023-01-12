@@ -1,0 +1,13 @@
+<emission-export>
+
+ <timestep time="3600">
+
+  <vehicle id="m1" eclass="HBEFA3/PC_G_EU4" CO2="<VEHICLE_CO2>" CO="<VEHICLE_CO>"
+    HC="<VEHICLE_HC>" NOx="<VEHICLE_NOX>" PMx="<VEHICLE_PMX>" fuel="<VEHICLE_FUEL>" electricity="<VEHICLE_ELECTRICITY>" noise="<VEHICLE_NOISE>" \
+    route="<VEHICLE_ROUTE>" type="<VEHICLE_TYPE>" waiting="<VEHICLE_WAITING>" lane="<VEHICLE_LANE>" \
+    pos="<VEHICLE_POS>" speed="<VEHICLE_SPEED>" angle="<VEHICLE_ANGLE>" x="<VEHICLE_POS_X>" y="<VEHICLE_POS_Y>"/>
+
+
+  </timestep>
+
+</emission-export>
